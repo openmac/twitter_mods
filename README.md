@@ -9,5 +9,5 @@ This one is highly experimental because Twitter's new Web App may change soon, b
 
 ## How to apply to Safari
 - Safari -> Preferences.
-- Advanced
+- Advanced.
 - Set the Stylesheet to one of the above CSS files.
