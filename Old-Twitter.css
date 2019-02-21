@@ -61,3 +61,7 @@ font-family: -apple-system !important;
 body.ar, body.ur, body.fa {
 font-family: -apple-system !important;
 }
+
+.RichEditor-scrollContainer.u-borderRadiusInherit {
+font-family: -apple-system;
+}
